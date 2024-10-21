@@ -11,7 +11,7 @@ public static void ageForVote(int age){
 	  }
 	}
    public static void main(String X[]){
-	 Scanner sc = new Scanner(system.in);
+	 Scanner sc = new Scanner(System.in);
 	 int age = sc.nextInt();
 	 ageForVote(age);
    }
