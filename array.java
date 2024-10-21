@@ -15,17 +15,6 @@ class Arrays
 	System.out.println("COA:" +marks[2]);	
 	System.out.println("DSA:" +marks[3]);	
 	System.out.println("SE:" +marks[4]);	
-	System.out.println("POM:" +marks[5]);*/
-	
-	int Size = sc.nextInt();
-	int marks[] = new int[Size];
-	//input
-	for(int i=0; i<Size; i++){
-	 marks[i] = sc.nextInt();
+	System.out.println("POM:" +marks[5]);
 	}
-	//output
-	 for(int i=0; i<Size; i++){
-		System.out.println(marks[i]);
-	}
-  }
  }
