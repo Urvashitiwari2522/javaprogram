@@ -5,7 +5,7 @@ class Searching
 	{
 	Scanner sc = new Scanner(System.in);
 	int Size = sc.nextInt();
-	int Number = new int[Size];
+	int[] Number = new int[Size];
 	//Input
 	for(int i=0; i<Size; i++){
     Number[i] = sc.nextInt();
