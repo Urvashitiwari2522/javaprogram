@@ -12,6 +12,7 @@ class Bank{
    public void setAtmPin( int pin){
     //this Keyword
      this.atmPin = pin;
+  
    }
 }
 class Access{
